@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoshiiAPP", "Muñequito\HoshiiAPP.csproj", "{C6140760-CDF1-469D-B673-00536C64279F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{43862039-44F4-48D3-9900-27918F1A293D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6140760-CDF1-469D-B673-00536C64279F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6140760-CDF1-469D-B673-00536C64279F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6140760-CDF1-469D-B673-00536C64279F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6140760-CDF1-469D-B673-00536C64279F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43862039-44F4-48D3-9900-27918F1A293D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43862039-44F4-48D3-9900-27918F1A293D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43862039-44F4-48D3-9900-27918F1A293D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43862039-44F4-48D3-9900-27918F1A293D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013FB40B-62A6-47A5-BD89-3B3BDD8B18A2}
+	EndGlobalSection
+EndGlobal
